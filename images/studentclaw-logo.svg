@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Body -->
+  <ellipse cx="100" cy="115" rx="45" ry="35" fill="#e53935"/>
+  
+  <!-- Eyes -->
+  <circle cx="82" cy="95" r="8" fill="#fff"/>
+  <circle cx="118" cy="95" r="8" fill="#fff"/>
+  <circle cx="84" cy="95" r="4" fill="#111"/>
+  <circle cx="120" cy="95" r="4" fill="#111"/>
+  
+  <!-- Claws left -->
+  <line x1="55" y1="110" x2="28" y2="95" stroke="#c62828" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="22" cy="90" rx="12" ry="8" fill="#c62828" transform="rotate(-20 22 90)"/>
+  <ellipse cx="18" cy="100" rx="11" ry="7" fill="#c62828" transform="rotate(20 18 100)"/>
+
+  <!-- Claws right -->
+  <line x1="145" y1="110" x2="172" y2="95" stroke="#c62828" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="178" cy="90" rx="12" ry="8" fill="#c62828" transform="rotate(20 178 90)"/>
+  <ellipse cx="182" cy="100" rx="11" ry="7" fill="#c62828" transform="rotate(-20 182 100)"/>
+
+  <!-- Legs left -->
+  <line x1="68" y1="125" x2="45" y2="148" stroke="#c62828" stroke-width="5" stroke-linecap="round"/>
+  <line x1="72" y1="135" x2="52" y2="158" stroke="#c62828" stroke-width="5" stroke-linecap="round"/>
+  <line x1="78" y1="143" x2="62" y2="165" stroke="#c62828" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Legs right -->
+  <line x1="132" y1="125" x2="155" y2="148" stroke="#c62828" stroke-width="5" stroke-linecap="round"/>
+  <line x1="128" y1="135" x2="148" y2="158" stroke="#c62828" stroke-width="5" stroke-linecap="round"/>
+  <line x1="122" y1="143" x2="138" y2="165" stroke="#c62828" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Graduation cap board -->
+  <rect x="62" y="72" width="76" height="10" rx="2" fill="#1a1a2e"/>
+  <!-- Cap top -->
+  <polygon points="100,45 140,72 60,72" fill="#1a1a2e"/>
+  <!-- Tassel string -->
+  <line x1="138" y1="72" x2="145" y2="95" stroke="#FFD700" stroke-width="2"/>
+  <!-- Tassel end -->
+  <circle cx="145" cy="98" r="4" fill="#FFD700"/>
+  <line x1="142" y1="98" x2="140" y2="108" stroke="#FFD700" stroke-width="1.5"/>
+  <line x1="145" y1="98" x2="145" y2="110" stroke="#FFD700" stroke-width="1.5"/>
+  <line x1="148" y1="98" x2="150" y2="108" stroke="#FFD700" stroke-width="1.5"/>
+</svg>
