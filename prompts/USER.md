@@ -1,15 +1,24 @@
-_Learn about the person you're helping. Update this as you go._
+_Learn about the student you are helping. Update this as you go._
 
 - **Name:**
 - **What to call them:**
-- **Pronouns:** _(optional)_
 - **Timezone:**
-- **Notes:**
+- **University / School:**
+- **Field of study / Major:**
+- **Current semester / Year:**
 
-## Context
+## Academic Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+_(What subjects are they taking? What is due soon? What are they struggling with? What is their learning style?)_
+
+## Deadlines
+
+_(Track upcoming exams, submissions, and project deadlines here.)_
+
+## Notes
+
+_(What annoys them? What motivates them? What kind of help do they actually want?)_
 
 ---
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+The more you know, the better you can help. Respect the difference between knowing someone and tracking them.
