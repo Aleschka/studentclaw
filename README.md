@@ -1,6 +1,12 @@
-# 🎓 StudentClaw
+<p align="center">
+  <img src="images/studentclaw-logo.svg" alt="StudentClaw" width="140"/>
+</p>
 
-**Your personal AI study assistant — powered by your Claude subscription. No bans, no extra costs, open-source.**
+<h1 align="center">🎓 StudentClaw</h1>
+
+<p align="center">
+  <b>Your personal AI study assistant — powered by your Claude subscription.<br>No bans, no extra costs, open-source.</b>
+</p>
 
 ---
 
